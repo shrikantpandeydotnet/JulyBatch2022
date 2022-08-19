@@ -61,7 +61,7 @@ namespace ITExpertsEraBatchJuly
         public string Color { get; set; } = "Blue"; // to initialise readonly property.
 
         // Readonly property. value can be set in the constructor. 
-        public int TestProperty { get; } = 100;
+        public int TestProperty { get; } = 200;
 
 
     }
